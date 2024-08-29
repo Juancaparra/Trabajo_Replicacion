@@ -2,6 +2,13 @@ public class Producto {
     private String codigo;
     private String nombre;
     private double precio;
+    private static int ultimoCodigo;
+
+    public Producto(String producto,String nombre, double precio){
+        this.codigo="Codigo "+(++ultimoCodigo);
+        this.nombre=nombre;
+        this.precio=precio;
+    }
 
     public String getCodigo() {
         return codigo;
