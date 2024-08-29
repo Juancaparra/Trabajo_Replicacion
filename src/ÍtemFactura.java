@@ -2,6 +2,11 @@ public class ÍtemFactura{
 private Producto producto;
 private int cantidad;
 
+    public ÍtemFactura(Producto producto,int cantidad){
+        this.producto=producto;
+        this.cantidad=cantidad;
+    }
+
     public Producto getProducto() {
         return producto;
     }
