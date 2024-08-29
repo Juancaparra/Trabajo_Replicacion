@@ -23,4 +23,14 @@ private int cantidad;
         this.cantidad = cantidad;
     }
 
+    public float calcularImporte(){
+return (float)(cantidad*producto.getPrecio());
+    }
+
+    @Override
+    public String toString() {
+        return producto +
+                "\t" + cantidad +
+                "\t" + calcularImporte();
+    }
 }

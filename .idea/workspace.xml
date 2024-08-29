@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f4c8ef-8cc7-4607-9016-e607b5cecaae" name="Changes" comment="Creacion de constructor de Producto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factura.java" afterDir="false" />
+    <list default="true" id="76f4c8ef-8cc7-4607-9016-e607b5cecaae" name="Changes" comment="Creacion de constructor de Factura">
+      <change beforePath="$PROJECT_DIR$/src/ÍtemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÍtemFactura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724933131793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Creacion de constructor de Factura">
+      <option name="closed" value="true" />
+      <created>1724934385667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724934385667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,7 +98,8 @@
     <MESSAGE value="Creacion de getters y setter" />
     <MESSAGE value="Creacion de constructor de ÍtemFactura" />
     <MESSAGE value="Creacion de constructor de Producto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de constructor de Producto" />
+    <MESSAGE value="Creacion de constructor de Factura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de constructor de Factura" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
