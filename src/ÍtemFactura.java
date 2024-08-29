@@ -7,6 +7,9 @@ private int cantidad;
         this.cantidad=cantidad;
     }
 
+    public ÍtemFactura(int i, Producto producto) {
+    }
+
     public Producto getProducto() {
         return producto;
     }

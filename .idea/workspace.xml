@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f4c8ef-8cc7-4607-9016-e607b5cecaae" name="Changes" comment="Creacion de metodos de ÍtemFactura">
-      <change beforePath="$PROJECT_DIR$/src/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factura.java" afterDir="false" />
+    <list default="true" id="76f4c8ef-8cc7-4607-9016-e607b5cecaae" name="Changes" comment="Creacion de metodos de Factura">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ÍtemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ÍtemFactura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -98,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724934443819</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creacion de metodos de Factura">
+      <option name="closed" value="true" />
+      <created>1724934979602</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724934979602</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,17 +119,7 @@
     <MESSAGE value="Creacion de constructor de Producto" />
     <MESSAGE value="Creacion de constructor de Factura" />
     <MESSAGE value="Creacion de metodos de ÍtemFactura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de metodos de ÍtemFactura" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Creacion de metodos de Factura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de metodos de Factura" />
   </component>
 </project>
